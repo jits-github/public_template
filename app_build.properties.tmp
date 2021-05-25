@@ -2,6 +2,6 @@ build.version.major=10
 build.version.minor=15
 build.version.micro=0
 build.patch=0000
-build.number=8002
-git_commit=ce980649fe48c47c7956f1dc169928c152283595
+build.number=8003
+git_commit=5c5a014a02546f6461f9f8c74b3cf8339debd56e
 
